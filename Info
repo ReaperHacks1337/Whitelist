@@ -1,0 +1,9 @@
+In order for the key system to fully work we need access to your ip, we do this all automatically. Nothing is stored for more than 24 Hours or Publicily. Everything is stored safely.
+If you want a longer answer here it is, essentially in order to create the whitelist we needed something that would be unique
+to you and your machine such as a HWID, FingerPrint or IP. Ideally i would have chosen to use HWID however from a executor
+i don't believe there is a way to get a HWID which you can also get from a website, same goes with a fingerprint, a fingerprint
+can be obtained from a executor but not from a website not allowing us to track which linkvertise checkpoints you have been to
+preventing us from creating anti linkvertise bypass. This is why we came to the solution of IP's we can safely get it from a script
+then we can track if your ip has visited the linkvertise checkpoints, then once you have completed all the checkpoints we render
+your IP as whitelisted, in 24 Hours your IP is fully deleted with no traces, all IP's are stored safely from a backend server that
+only us the devs of 1337 can access. If you still would like to know more please message me on discord, https://discord.gg/VREsrXgDFq.
